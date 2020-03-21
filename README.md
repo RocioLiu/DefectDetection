@@ -3,7 +3,7 @@
 This is a project that use U-Net to predict and classify the defect regions of steel images with Kaggle dataset [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection/overview/evaluation)  
   
 
-## Explore data
+## Exploring the data
 The defect masks of the steel images are encoded using Run-length encoding. First we decoded the labels to masks and indicated the defect regions on the images.  
 ![1](https://github.com/RocioLiu/DefectDetection/blob/master/assets/0002cc93b.jpg)
 ![2](https://github.com/RocioLiu/DefectDetection/blob/master/assets/0007a71bf.jpg)
